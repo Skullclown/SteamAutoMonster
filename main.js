@@ -1,4 +1,6 @@
-// Steam Monster Game Auto
+// SteamAutoMonster
+
+// SAM NEEDS YOU!
 
 
 var DASHBOARD = '\
